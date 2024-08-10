@@ -11,35 +11,35 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 global.botnumber = ""
 
 global.owner = [
-  ['201024480189', '𝐵𝛩𝑺𝑺⚡3𝑀𝐾', true],
-  ['201024480189', '𝐵𝛩𝑺𝑺⚡3𝑀𝐾', true],
-  ['201024480189', '𝐵𝛩𝑺𝑺⚡3𝑀𝐾', true],
-  ['201024480189', '𝐵𝛩𝑺𝑺⚡3𝑀𝐾', true],
-  ['201024480189', '𝐵𝛩𝑺𝑺⚡3𝑀𝐾', true],
-  ['201024480189', '𝐵𝛩𝑺𝑺⚡3𝑀𝐾', true],
-  ['201024480189', '𝐵𝛩𝑺𝑺⚡3𝑀𝐾', true],
-  ['201024480189', '𝐵𝛩𝑺𝑺⚡3𝑀𝐾', false],
-  ['201024480189', '𝐵𝛩𝑺𝑺⚡3𝑀𝐾', true],
-  ['201024480189','𝐵𝛩𝑺𝑺⚡3𝑀𝐾', true],
-  ['201024480189'],
-  ['201024480189'],
-  ['201024480189'],
-  ['201024480189'],
-  ['201024480189'],
-  ['201024480189'],
-  ['201024480189'],
-  ['201024480189'], 
-  ['201024480189'],  
-  ['201024480189'], 
-  ['201024480189']
+  ['249128749239', 'MIDO⚡3𝑀𝐾', true],
+  ['249128749239', 'MIDO⚡3𝑀𝐾', true],
+  ['249128749239', 'MIDO⚡3𝑀𝐾', true],
+  ['249128749239', 'MIDO⚡3𝑀𝐾', true],
+  ['249128749239', 'MIDO⚡3𝑀𝐾', true],
+  ['249128749239', 'MIDO⚡3𝑀𝐾', true],
+  ['249128749239', 'MIDO⚡3𝑀𝐾', true],
+  ['249128749239', 'MIDO⚡3𝑀𝐾', false],
+  ['249128749239', 'MIDO⚡3𝑀𝐾', true],
+  ['249128749239','MIDO⚡3𝑀𝐾', true],
+  ['249128749239'],
+  ['249128749239'],
+  ['249128749239'],
+  ['249128749239'],
+  ['249128749239'],
+  ['249128749239'],
+  ['249128749239'],
+  ['249128749239'], 
+  ['249128749239'],  
+  ['249128749239'], 
+  ['249128749239']
 ];
 
-global.suittag = ['201024480189'];
-global.prems = ['201024480189'];
+global.suittag = ['249128749239'];
+global.prems = ['249111230420'];
 
 global.lenguajeGB = ar  //Idioma de The-LoliBot-MD, Ejemplo: es | en | pt...
 // Sticker WM
-global.botname = '𝒁𝑶𝑹𝑶'
+global.botname = 'mido'
 global.premium = 'true'
 global.menuvid = 'https://i.imgur.com/uiwALih.mp4'
 global.igfg = 'https://solo.to/boss51-51' 
@@ -51,12 +51,12 @@ global.fglog = 'https://solo.to/boss51-51'
 global.thumb = fs.readFileSync('./Menu2.jpg')
 
 
-global.packname = '𝐵𝑌:𝒁𝑶𝑹𝑶⚡𝑩𝑶𝑻';
-global.author = '𝐵𝛩𝑺𝑺⚡3𝑀𝐾';
-global.wm = '𝒁𝑶𝑹𝑶 - 𝑩𝑶𝑻';
-global.titulowm = '𝒁𝑶𝑹𝑶 - 𝑩𝑶𝑻';
-global.titulowm2 = `𝒁𝑶𝑹𝑶 - 𝑩𝑶𝑻`
-global.igfg = '𝒁𝑶𝑹𝑶 - 𝑩𝑶𝑻';
+global.packname = '𝐵𝑌:MIDO⚡𝑩𝑶𝑻';
+global.author = 'mido bot 249128749239';
+global.wm = 'mido - 𝑩𝑶𝑻';
+global.titulowm = 'MIDO - 𝑩𝑶𝑻';
+global.titulowm2 = `MIDO - 𝑩𝑶𝑻`
+global.igfg = 'MIDO - 𝑩𝑶𝑻';
 global.wait = '*[ ⏳ ] انتظر...*';
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ رياكت
@@ -87,14 +87,14 @@ global.año = d.toLocaleDateString('ar', {year: 'numeric'});
 global.tiempo = d.toLocaleString('ar-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
 global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝐵𝑌:𝐓𝐔𝐑𝐁𝐎⚡𝐁𝐎𝐓𝐒`;
-global.gt = '𝐵𝑌:𝒁𝑶𝑹𝑶⚡𝑩𝑶𝑻';
-global.mysticbot = '𝐵𝑌:𝒁𝑶𝑹𝑶⚡𝑩𝑶𝑻';
+global.gt = '𝐵𝑌:MIDO⚡𝑩𝑶𝑻';
+global.mysticbot = '𝐵𝑌:MIDO⚡𝑩𝑶𝑻';
 global.md = 'https://solo.to/boss51-51';
 global.mysticbot = 'https://solo.to/boss51-51';
 global.waitt = '*⌛ _جاري التحميل..._ ▬▬▭▭▭*';
 global.waittt = '*⌛ _جاري التحميل..._ ▬▬▬▬▭▭*';
 global.waitttt = '*⌛ _جاري التحميل..._ ▬▬▬▬▬▬▭*';
-global.nomorown = '201110156619';
+global.nomorown = '249128749239';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
